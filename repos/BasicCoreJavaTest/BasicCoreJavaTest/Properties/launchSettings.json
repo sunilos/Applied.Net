@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "BasicCoreJavaTest": {
+      "commandName": "Project",
+      "commandLineArgs": "10 2"
+    }
+  }
+}
