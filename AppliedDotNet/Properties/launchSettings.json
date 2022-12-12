@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "AppliedDotNet": {
+      "commandName": "Project",
+      "commandLineArgs": "shubham aniket"
+    }
+  }
+}
