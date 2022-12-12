@@ -1,4 +1,4 @@
-﻿using System;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace AppliedDotNet.p01basics
 {
-    internal class HelloAll
+    public class HelloAll
     {
         public static void RunTime(String[] args)
         {
