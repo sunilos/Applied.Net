@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace AppliedDotNet.p01basics
 {
-    public class ReturnValues_Arguments
+    public class ReturnValuesArguments
     {
         public static void Return(String[] args)
         {

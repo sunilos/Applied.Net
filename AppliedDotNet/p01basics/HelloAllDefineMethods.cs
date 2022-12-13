@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace AppliedDotNet.p01basics
 {
-    public class HelloAll_Define_Methods
+    public class HelloAllDefineMethods
     {
         public static void DefineMethod(String[] args)
         {

@@ -8,6 +8,6 @@ namespace AppliedDotNet.p03OOP
 {
     public interface SocialWorker
     {
-        public void helpToOthers();
+        public void HelpToOthers();
     }
 }

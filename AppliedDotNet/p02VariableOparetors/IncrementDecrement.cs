@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace AppliedDotNet.p02VariableOparetors
 {
-    public class Increment_Decrement
+    public class IncrementDecrement
     {
         public static void IncDec()
         {

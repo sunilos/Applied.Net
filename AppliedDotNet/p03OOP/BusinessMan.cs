@@ -12,22 +12,22 @@ namespace AppliedDotNet.p03OOP
         private String name;
         private String address;
 
-        public void donation()
+        public void Donation()
         {
             Console.WriteLine("Giving Donation");
         }
 
-        public void earnMoney()
+        public void EarnMoney()
         {
             Console.WriteLine("Earing Money");
         }
 
-        public void helpToOthers()
+        public void HelpToOthers()
         {
             Console.WriteLine("Helping to Others");
         }
 
-        public void party()
+        public void Party()
         {
             Console.WriteLine("Injoying Party");
         }

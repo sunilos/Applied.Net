@@ -8,23 +8,23 @@ namespace AppliedDotNet.p01basics
 {
     public class Arguments
     {
-        public void add(int a, int b)
+        public void Add(int a, int b)
         {
             Console.WriteLine(a + b);
         }
-        public void sum(int a, int b)
+        public void Sum(int a, int b)
         {
             Console.WriteLine(a - b);
         }
-        public void multiply(int a, int b)
+        public void Multiply(int a, int b)
         {
             Console.WriteLine(a * b);
         }
-        public void divide(int a, int b)
+        public void Divide(int a, int b)
         {
             Console.WriteLine(a / b);
         }
-        public void modulus(int a, int b)
+        public void Modulus(int a, int b)
         {
             Console.WriteLine(a % b);
         }

@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace AppliedDotNet.p01basics
 {
-    public class Add_Arguments
+    public class AddArguments
     {
         public static void Add(String[] args)
         {

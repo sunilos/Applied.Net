@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace AppliedDotNet.p01basics
 {
-    public class Division_Arguments
+    public class DivisionArguments
     {
         public static void Division(String[] args)
         {

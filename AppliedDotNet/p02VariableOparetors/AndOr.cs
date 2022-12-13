@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace AppliedDotNet.p02VariableOparetors
 {
-    public class And_OR
+    public class AndOr
     {
         public static void ORAND()
         {

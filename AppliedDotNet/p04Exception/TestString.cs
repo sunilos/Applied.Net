@@ -6,9 +6,9 @@ using System.Threading.Tasks;
 
 namespace AppliedDotNet.p04Exception
 {
-    public class Test_String
+    public class TestString
     {
-        public static void test()
+        public static void Test()
         {
             try
             {

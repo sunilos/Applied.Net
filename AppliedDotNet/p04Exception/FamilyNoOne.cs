@@ -1,5 +1,4 @@
-﻿using OpenXmlPowerTools;
-using System;
+﻿using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
@@ -11,37 +10,37 @@ namespace AppliedDotNet.p04Exception
     {
         public static void Test()
         {
-            padosi();
+            Padosi();
         }
-        public static void padosi()
+        public static void Padosi()
         {
-            dad();
+            Dad();
         }
-        public static void dad()
+        public static void Dad()
         {
-            mom();
+            Mom();
         }
-        /*public static void mom()
+        /*public static void Mom()
          {
-             raju();
+             Raju();
          }*/
-        public static void mom()
+        public static void Mom()
         {
             try
             {
-                raju();
+                Raju();
             }
             catch (LoginException e)
             {
                 Console.WriteLine(e.Message);
             }
         }
-        /*public static void raju()
+        /*public static void Raju()
         {
             LoginException e = new LoginException("I lost Rs 500");
             throw e;
         }*/
-        public static void raju()
+        public static void Raju()
         {
             LoginException e1 = new LoginException("I lost Rs 500");
             try

@@ -8,8 +8,8 @@ namespace AppliedDotNet.p03OOP
 {
     public interface RichMan
     {
-        public void earnMoney();
-        public void donation();
-        public void party();
+        public void EarnMoney();
+        public void Donation();
+        public void Party();
     }
 }

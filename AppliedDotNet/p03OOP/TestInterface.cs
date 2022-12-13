@@ -8,23 +8,23 @@ namespace AppliedDotNet.p03OOP
 {
     public class TestInterface
     {
-        public static void bussiness()
+        public static void Bussiness()
         {
 
             RichMan rm = new BusinessMan();
             SocialWorker sw = new BusinessMan();
             BusinessMan bm = new BusinessMan();
 
-            rm.party();
-            rm.earnMoney();
-            rm.donation();
+            rm.Party();
+            rm.EarnMoney();
+            rm.Donation();
 
-            sw.helpToOthers();
+            sw.HelpToOthers();
 
-            bm.party();
-            bm.donation();
-            bm.earnMoney();
-            bm.helpToOthers();
+            bm.Party();
+            bm.Donation();
+            bm.EarnMoney();
+            bm.HelpToOthers();
         }
     }
 }

@@ -15,7 +15,7 @@ namespace DotNetPrograms
 
             //Tables.Addcount(args);
             //HelloCSharp.Name();
-            //HelloWhile.loops();
+            //HelloWhile.Loops();
             //HelloFor.For();
             //HelloDoWhile.DoWhile();
             //TestAdd.Add();
@@ -25,17 +25,17 @@ namespace DotNetPrograms
             //HelloName.Name(args);
             //IfElse.Else(args);
             //HelloAll.RunTime(args);
-            //HelloAll_Define_Methods.DefineMethod(args);
-            //Add_Arguments.Add(args);
-            //Division_Arguments.Division(args);
-            //ReturnValues_Arguments.Return(args);
+            //HelloAllDefineMethods.DefineMethod(args);
+            //AddArguments.Add(args);
+            //DivisionArguments.Division(args);
+            //ReturnValuesArguments.Return(args);
             //NormalDate.Normal();
             /* Arguments c1 = new Arguments();
-             c1.add(5, 6);
-             c1.sum(10, 5);
-             c1.multiply(6, 4);
-             c1.divide(9, 3);
-             c1.modulus(10, 2);*/
+             c1.Add(5, 6);
+             c1.Sum(10, 5);
+             c1.Multiply(6, 4);
+             c1.Divide(9, 3);
+             c1.Modulus(10, 2);*/
 
 
 
@@ -43,8 +43,8 @@ namespace DotNetPrograms
 
             //Hello.Name();
             //ExampleAssignment.Ass();
-            //And_OR.ORAND();
-            //Increment_Decrement.IncDec();
+            //AndOR.ORAND();
+            //IncrementDecrement.IncDec();
             //SmallToBig.DataType();
             //BigToSmall.DataType();
 
@@ -52,12 +52,10 @@ namespace DotNetPrograms
 
             //* OOP *//
 
-            //TestShape1.Test();
-            //TestShape.shape();
-            //TestEncapsulation.test();
-            //Polymorphism.test();
-            //TestInterface.bussiness();
-            //TestEmployee.emp();
+            //TestShape.Shape();
+            //Polymorphism.Test();
+            //TestInterface.Bussiness();
+            //TestEmployee.Emp();
 
 
 
@@ -66,14 +64,14 @@ namespace DotNetPrograms
             //TryCatch.Try();
             //MultipleCatch.Catch();
             //TestFinally.Finally();
-            //Test_String.test();
-            //ParentsException.exception();
+            //TestString.Test();
+            //ParentsException.Exception();
             //FirstCatch.Test();
             //FamilyNoOne.Test();
-            //FamilyNoOne.padosi();
-            //FamilyNoOne.dad();
-            //FamilyNoOne.mom();
-            //FamilyNoOne.raju();
+            //FamilyNoOne.Padosi();
+            //FamilyNoOne.Dad();
+            //FamilyNoOne.Mom();
+            //FamilyNoOne.Raju();
 
         }
     }

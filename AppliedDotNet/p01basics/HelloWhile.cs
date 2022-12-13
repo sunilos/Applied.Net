@@ -8,7 +8,7 @@ namespace AppliedDotNet.p01basics
 {
     public class HelloWhile
     {
-        public static void loops()
+        public static void Loops()
         {
             Boolean isAlive = true;
             int round = 0;

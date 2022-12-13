@@ -8,13 +8,13 @@ namespace AppliedDotNet.p03OOP
 {
     public class TestEmployee
     {
-        public static void emp()
+        public static void Emp()
         {
             Employee e = new Employee("Shubham", "Kumawat", "Corporate Trainer");
             Employee e1 = new Employee("Shubham", "Kumawat");
             Employee e2 = new Employee();
 
-            e2.changeAddress();
+            e2.ChangeAddress();
 
             String s = e.getfirstName();
             String s1 = e.getlastName();

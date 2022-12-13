@@ -8,7 +8,7 @@ namespace AppliedDotNet.p03OOP
 {
     public class Polymorphism
     {
-        public static void test()
+        public static void Test()
         {
             Shape[] s = new Shape[3];
             s[0] = new Rectangle(10, 20);

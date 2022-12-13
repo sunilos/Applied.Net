@@ -26,7 +26,7 @@ namespace AppliedDotNet.p03OOP
         public Employee(string fn, string ln) : base(fn, ln)
         {
         }
-        public void changeAddress()
+        public void ChangeAddress()
         {
             Console.WriteLine("*****");
             base.changeAddress();
