@@ -6,13 +6,13 @@ using System.Threading.Tasks;
 
 namespace AppliedDotNet.p01basics
 {
-    public class HelloAll
+    public class HelloFor
     {
-        public static void RunTime(String[] args)
+        public static void For()
         {
-            for (int i = 0; i < args.Length; i++)
+            for (int hits = 1; hits <= 5; hits++)
             {
-                Console.WriteLine(i + " = Hello " + args[i]);
+                Console.WriteLine("Shot Balloon");
             }
         }
     }
