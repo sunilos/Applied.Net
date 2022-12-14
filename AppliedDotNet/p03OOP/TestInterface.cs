@@ -8,7 +8,7 @@ namespace AppliedDotNet.p03OOP
 {
     public class TestInterface
     {
-        public static void Bussiness()
+        public static void Test()
         {
 
             RichMan rm = new BusinessMan();

@@ -8,7 +8,7 @@ namespace AppliedDotNet.p01basics
 {
     public class NormalDate
     {
-        public static void Normal()
+        public static void Test()
         {
             DateOnly date = new DateOnly();
 

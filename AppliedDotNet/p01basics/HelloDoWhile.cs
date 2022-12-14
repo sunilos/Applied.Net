@@ -8,7 +8,7 @@ namespace AppliedDotNet.p01basics
 {
     public class HelloDoWhile
     {
-        public static void DoWhile()
+        public static void Test()
         {
             int i = 0;
             do

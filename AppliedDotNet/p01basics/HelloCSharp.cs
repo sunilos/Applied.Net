@@ -9,7 +9,7 @@ namespace AppliedDotNet.p01basics
 {
     public class HelloCSharp
     {
-        public static void Name()
+        public static void Test()
         {
             String name = "Vijay";
 

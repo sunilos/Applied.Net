@@ -8,7 +8,7 @@ namespace AppliedDotNet.p04Exception
 {
     public class MultipleCatch
     {
-        public static void Catch()
+        public static void Test()
         {
             int a, b = 0;
             Console.WriteLine("My program starts");

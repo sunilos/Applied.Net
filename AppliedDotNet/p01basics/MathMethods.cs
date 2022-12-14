@@ -8,7 +8,7 @@ namespace AppliedDotNet.p01basics
 {
     public class MathMethods
     {
-        public static void Method()
+        public static void Test()
         {
 
             Console.WriteLine("Math functions");

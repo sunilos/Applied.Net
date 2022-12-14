@@ -8,7 +8,7 @@ namespace AppliedDotNet.p01basics
 {
     public class SwitchCase
     {
-        public static void Switch()
+        public static void Test()
         {
 
             String country = "India";

@@ -8,7 +8,7 @@ namespace AppliedDotNet.p01basics
 {
     public class IfElse
     {
-        public static void Else(String[] args)
+        public static void Test(String[] args)
         {
             if (args.Length == 1)
             {

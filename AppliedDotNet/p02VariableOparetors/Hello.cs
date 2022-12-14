@@ -8,7 +8,7 @@ namespace AppliedDotNet.p02VariableOparetors
 {
     public class Hello
     {
-        public static void Name()
+        public static void Test()
         {
             System.Console.WriteLine("Hello Shubham!");
         }

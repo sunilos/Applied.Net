@@ -8,7 +8,7 @@ namespace AppliedDotNet.p02VariableOparetors
 {
     public class ExampleAssignment
     {
-        public static void Ass()
+        public static void Test()
         {
             int result, val_1, val_2;
             result = (val_1 = 1) + (val_2 = 2);

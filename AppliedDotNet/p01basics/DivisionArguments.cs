@@ -8,7 +8,7 @@ namespace AppliedDotNet.p01basics
 {
     public class DivisionArguments
     {
-        public static void Division(String[] args)
+        public static void Test(String[] args)
         {
             int a = Int32.Parse(args[0]);
             int b = Int32.Parse(args[1]);

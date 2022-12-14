@@ -8,7 +8,7 @@ namespace AppliedDotNet.p04Exception
 {
     public class ParentsException
     {
-        public static void Exception()
+        public static void Test()
         {
             try
             {

@@ -8,7 +8,7 @@ namespace AppliedDotNet.p01basics
 {
     public class HelloAllDefineMethods
     {
-        public static void DefineMethod(String[] args)
+        public static void Test(String[] args)
         {
             PrintAll(args);
         }// main

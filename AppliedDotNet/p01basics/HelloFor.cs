@@ -8,7 +8,7 @@ namespace AppliedDotNet.p01basics
 {
     public class HelloFor
     {
-        public static void For()
+        public static void Test()
         {
             for (int hits = 1; hits <= 5; hits++)
             {

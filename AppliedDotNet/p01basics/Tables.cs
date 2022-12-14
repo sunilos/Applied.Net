@@ -9,7 +9,7 @@ namespace AppliedDotNet.p01basics
 {
     public class Tables
     {
-        public static void Addcount(string[] args)
+        public static void Test(string[] args)
         {
             int a = 0;
 

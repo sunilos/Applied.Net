@@ -8,7 +8,7 @@ namespace AppliedDotNet.p01basics
 {
     public class StringMethods
     {
-        public static void Method()
+        public static void Test()
         {
             String name = "Vijay Dinanth Chouhan";
 

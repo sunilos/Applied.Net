@@ -8,7 +8,7 @@ namespace AppliedDotNet.p02VariableOparetors
 {
     public class IncrementDecrement
     {
-        public static void IncDec()
+        public static void Test()
         {
             int i = 0;
             Console.WriteLine(++i + ++i + ++i + ++i + ++i + ++i);

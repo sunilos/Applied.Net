@@ -8,7 +8,7 @@ namespace AppliedDotNet.p02VariableOparetors
 {
     public class AndOr
     {
-        public static void ORAND()
+        public static void Test()
         {
             int i = 0;
             System.Console.WriteLine("Test:" + ((2 < 3) || (0 < i++)));

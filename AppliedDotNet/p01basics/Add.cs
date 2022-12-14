@@ -8,7 +8,7 @@ namespace AppliedDotNet.p01basics
 {
     public class TestAdd
     {
-        public static void Add()
+        public static void Test()
         {
             int a = 5;
             int b = 10;

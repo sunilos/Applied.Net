@@ -8,7 +8,7 @@ namespace AppliedDotNet.p02VariableOparetors
 {
     public class BigToSmall
     {
-        public static void DataType()
+        public static void Test()
         {
             double d = 5;
             int i = (int)d;

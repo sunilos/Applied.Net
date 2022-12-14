@@ -8,7 +8,7 @@ namespace AppliedDotNet.p03OOP
 {
     public class TestShape
     {
-        public static void Shape()
+        public static void Test()
         {
 
             /*  Shape s = new Shape("blue", 10);

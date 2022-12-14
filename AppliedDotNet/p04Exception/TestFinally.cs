@@ -8,7 +8,7 @@ namespace AppliedDotNet.p04Exception
 {
     public class TestFinally
     {
-        public static void Finally()
+        public static void Test()
         {
             int a;
             int b = 0;

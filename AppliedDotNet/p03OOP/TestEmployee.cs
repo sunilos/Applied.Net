@@ -8,7 +8,7 @@ namespace AppliedDotNet.p03OOP
 {
     public class TestEmployee
     {
-        public static void Emp()
+        public static void Test()
         {
             Employee e = new Employee("Shubham", "Kumawat", "Corporate Trainer");
             Employee e1 = new Employee("Shubham", "Kumawat");

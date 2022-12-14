@@ -8,7 +8,7 @@ namespace AppliedDotNet.p01basics
 {
     public class HelloAll
     {
-        public static void RunTime(String[] args)
+        public static void Test(String[] args)
         {
             for (int i = 0; i < args.Length; i++)
             {

@@ -2,6 +2,7 @@
 using AppliedDotNet.p02VariableOparetors;
 using AppliedDotNet.p03OOP;
 using AppliedDotNet.p04Exception;
+using AppliedDotNet.p05CollectionFramwork;
 
 namespace DotNetPrograms
 {
@@ -13,23 +14,23 @@ namespace DotNetPrograms
 
             //* Basics *//
 
-            //Tables.Addcount(args);
-            //HelloCSharp.Name();
-            //HelloWhile.Loops();
-            //HelloFor.For();
-            //HelloDoWhile.DoWhile();
-            //TestAdd.Add();
-            //SwitchCase.Switch();
-            //StringMethods.Method();
-            //MathMethods.Method();
-            //HelloName.Name(args);
-            //IfElse.Else(args);
-            //HelloAll.RunTime(args);
-            //HelloAllDefineMethods.DefineMethod(args);
-            //AddArguments.Add(args);
-            //DivisionArguments.Division(args);
-            //ReturnValuesArguments.Return(args);
-            //NormalDate.Normal();
+            //Tables.Test(args);
+            //HelloCSharp.Test();
+            //HelloWhile.Test();
+            //HelloFor.Test();
+            //HelloDoWhile.Test();
+            //TestAdd.Test();
+            //SwitchCase.Test();
+            //StringMethods.Test();
+            //MathMethods.Test();
+            //HelloName.Test(args);
+            //IfElse.Test(args);
+            //HelloAll.Test(args);
+            //HelloAllDefineMethods.Test(args);
+            //AddArguments.Test(args);
+            //DivisionArguments.Test(args);
+            //ReturnValuesArguments.Test(args);
+            //NormalDate.Test();
             /* Arguments c1 = new Arguments();
              c1.Add(5, 6);
              c1.Sum(10, 5);
@@ -41,31 +42,31 @@ namespace DotNetPrograms
 
             //* Variable and Oparetors *//
 
-            //Hello.Name();
-            //ExampleAssignment.Ass();
-            //AndOR.ORAND();
-            //IncrementDecrement.IncDec();
-            //SmallToBig.DataType();
-            //BigToSmall.DataType();
+            //Hello.Test();
+            //ExampleAssignment.Test();
+            //AndOR.Test();
+            //IncrementDecrement.Test();
+            //SmallToBig.Test();
+            //BigToSmall.Test();
 
 
 
             //* OOP *//
 
-            //TestShape.Shape();
+            //TestShape.Test();
             //Polymorphism.Test();
-            //TestInterface.Bussiness();
-            //TestEmployee.Emp();
+            //TestInterface.Test();
+            //TestEmployee.Test();
 
 
 
             //* Exception *//
 
-            //TryCatch.Try();
-            //MultipleCatch.Catch();
-            //TestFinally.Finally();
+            //TryCatch.Test();
+            //MultipleCatch.Test();
+            //TestFinally.Test();
             //TestString.Test();
-            //ParentsException.Exception();
+            //ParentsException.Test();
             //FirstCatch.Test();
             //FamilyNoOne.Test();
             //FamilyNoOne.Padosi();
@@ -73,6 +74,15 @@ namespace DotNetPrograms
             //FamilyNoOne.Mom();
             //FamilyNoOne.Raju();
 
+
+
+            //* Collection FramWork *//
+
+            //TestArrayList.Test();
+            //TestIListMethod.Test();
+            //CopyArray.Test();
+            //TestQueue.Test();
+            //CollectionSequentially.Test();
         }
     }
 }
