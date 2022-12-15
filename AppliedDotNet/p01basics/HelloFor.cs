@@ -6,6 +6,7 @@ using System.Threading.Tasks;
 
 namespace AppliedDotNet.p01basics
 {
+    /* Example class for For Loop*/
     public class HelloFor
     {
         public static void Test()

@@ -6,6 +6,7 @@ using System.Threading.Tasks;
 
 namespace AppliedDotNet.p01basics
 {
+/* Program to print runtime argument list*/
     public class HelloAll
     {
         public static void Test(String[] args)

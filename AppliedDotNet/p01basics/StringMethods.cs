@@ -6,6 +6,9 @@ using System.Threading.Tasks;
 
 namespace AppliedDotNet.p01basics
 {
+    /**
+    * Program to check the string methods
+    */
     public class StringMethods
     {
         public static void Test()

@@ -6,6 +6,9 @@ using System.Threading.Tasks;
 
 namespace AppliedDotNet.p01basics
 {
+    /**
+    * Program to check the Maths methods
+    */
     public class MathMethods
     {
         public static void Test()

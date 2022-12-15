@@ -6,6 +6,9 @@ using System.Threading.Tasks;
 
 namespace AppliedDotNet.p01basics
 {
+    /**
+    * Program to apply the SwitchCase 
+    */
     public class SwitchCase
     {
         public static void Test()

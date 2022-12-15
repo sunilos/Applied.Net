@@ -6,6 +6,8 @@ using System.Threading.Tasks;
 
 namespace AppliedDotNet.p01basics
 {
+    /* This example is for taking run time arguments 
+ * then parse them into integer type for division.*/
     public class DivisionArguments
     {
         public static void Test(String[] args)

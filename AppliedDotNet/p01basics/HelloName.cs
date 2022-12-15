@@ -6,6 +6,9 @@ using System.Threading.Tasks;
 
 namespace AppliedDotNet.p01basics
 {
+    /**
+    * A simple program to print runtime argument with Hello.  
+    */
     public class HelloName
     {
         public static void Test(String[] args)

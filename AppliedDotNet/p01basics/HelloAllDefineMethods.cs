@@ -8,6 +8,7 @@ namespace AppliedDotNet.p01basics
 {
     public class HelloAllDefineMethods
     {
+        /* Program to print runtime argument list*/
         public static void Test(String[] args)
         {
             PrintAll(args);

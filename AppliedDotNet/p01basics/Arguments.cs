@@ -6,6 +6,7 @@ using System.Threading.Tasks;
 
 namespace AppliedDotNet.p01basics
 {
+    /* All Method in this class*/
     public class Arguments
     {
         public void Add(int a, int b)

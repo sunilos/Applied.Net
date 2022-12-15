@@ -6,6 +6,9 @@ using System.Threading.Tasks;
 
 namespace AppliedDotNet.p01basics
 {
+    /**
+     * Program to get the Date
+    */
     public class NormalDate
     {
         public static void Test()
