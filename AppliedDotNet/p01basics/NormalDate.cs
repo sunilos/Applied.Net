@@ -6,7 +6,8 @@ using System.Threading.Tasks;
 
 namespace AppliedDotNet.p01basics
 {
-    /* Program to get the Date
+    /** 
+     * Program to get the Date
      * @Author SunilOS
      */
     public class NormalDate
