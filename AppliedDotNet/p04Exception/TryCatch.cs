@@ -6,6 +6,9 @@ using System.Threading.Tasks;
 
 namespace AppliedDotNet.p04Exception
 {
+    /* Example of Exception Types in a single Try And catch.
+     * @Author SunilOS
+     */
     public class TryCatch
     {
         public static void Test()

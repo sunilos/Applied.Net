@@ -6,6 +6,9 @@ using System.Threading.Tasks;
 
 namespace AppliedDotNet.p02VariableOparetors
 {
+    /* Example to Test Primitive Data Types
+     * @Author SunilOS
+     */
     public class SmallToBig
     {
         public static void Test()

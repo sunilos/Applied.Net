@@ -7,6 +7,9 @@ using System.Threading.Tasks;
 
 namespace AppliedDotNet.p05CollectionFramwork
 {
+    /* Test the Queue interface.
+     * @Author SunilOS
+     */
     public class TestQueue
     {
         public static void Test()

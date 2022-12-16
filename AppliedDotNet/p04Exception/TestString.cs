@@ -6,6 +6,9 @@ using System.Threading.Tasks;
 
 namespace AppliedDotNet.p04Exception
 {
+    /* Tests String class.
+     * @Author SunilOS
+     */
     public class TestString
     {
         public static void Test()

@@ -42,9 +42,9 @@ namespace DotNetPrograms
 
             //* Variable and Oparetors *//
 
-            //Hello.Test();
+            //HelloName1.Test();
             //ExampleAssignment.Test();
-            //AndOR.Test();
+            //AndOr.Test();
             //IncrementDecrement.Test();
             //SmallToBig.Test();
             //BigToSmall.Test();
@@ -54,7 +54,7 @@ namespace DotNetPrograms
             //* OOP *//
 
             //TestShape.Test();
-            //Polymorphism.Test();
+            //TestShapePoly.Test();
             //TestInterface.Test();
             //TestEmployee.Test();
 
@@ -66,8 +66,7 @@ namespace DotNetPrograms
             //MultipleCatch.Test();
             //TestFinally.Test();
             //TestString.Test();
-            //ParentsException.Test();
-            //FirstCatch.Test();
+            //ParentHandleChildExceptions.Test();
             //FamilyNoOne.Test();
             //FamilyNoOne.Padosi();
             //FamilyNoOne.Dad();
@@ -83,6 +82,10 @@ namespace DotNetPrograms
             //CopyArray.Test();
             //TestQueue.Test();
             //CollectionSequentially.Test();
+            //TestHashtable.Test();
+            //IDictionaryMethod.Test();
+            //TestDictionary.Test();
+            //Generic.Test();
         }
     }
 }

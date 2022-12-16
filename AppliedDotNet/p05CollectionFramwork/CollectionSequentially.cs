@@ -7,6 +7,9 @@ using System.Threading.Tasks;
 
 namespace AppliedDotNet.p05CollectionFramwork
 {
+    /* Program to CollectionSequentially and test the Enumerator in this class.
+     * @Author SunilOS
+     */
     public class CollectionSequentially
     {
         public static void Test()

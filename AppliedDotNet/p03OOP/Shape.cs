@@ -7,6 +7,9 @@ using System.Threading.Tasks;
 
 namespace AppliedDotNet.p03OOP
 {
+    /* Class contains Shape related attribute and methods.
+     * @Author SunilOS
+     */
     public class Shape
     {
         const float PI = 3.14f;

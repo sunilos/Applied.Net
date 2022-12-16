@@ -6,6 +6,9 @@ using System.Threading.Tasks;
 
 namespace AppliedDotNet.p02VariableOparetors
 {
+    /* Test Conditional Operators
+     * @Author SunilOS
+     */
     public class AndOr
     {
         public static void Test()

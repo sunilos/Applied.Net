@@ -6,6 +6,9 @@ using System.Threading.Tasks;
 
 namespace AppliedDotNet.p04Exception
 {
+    /* Example of one try and multiple catch blocks.
+     * @Author SunilOS
+     */
     public class MultipleCatch
     {
         public static void Test()
@@ -23,6 +26,20 @@ namespace AppliedDotNet.p04Exception
             catch (DivideByZeroException e)
             {
                 Console.WriteLine(e);
+            }
+            try
+            {
+                String name = "Vijay Dinanth Chohan";
+                Console.WriteLine(name.Length);
+                Console.WriteLine(name[6]);
+            }
+            catch (ArgumentNullException e)
+            {
+                Console.WriteLine(e);
+            }
+            catch (SystemException e)
+            {
+                Console.WriteLine(e.Message);
             }
         }
     }

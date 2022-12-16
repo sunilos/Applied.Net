@@ -1,11 +1,16 @@
 ﻿using System;
 using System.Collections.Generic;
 using System.Linq;
+using System.Security.Claims;
 using System.Text;
 using System.Threading.Tasks;
 
 namespace AppliedDotNet.p03OOP
 {
+
+    /* Class Employee extends Class Person
+     * @Author SunilOS
+     */
     public class Employee : Person
     {
         private string designation;

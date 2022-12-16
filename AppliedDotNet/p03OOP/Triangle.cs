@@ -7,6 +7,9 @@ using System.Threading.Tasks;
 
 namespace AppliedDotNet.p03OOP
 {
+    /* Inherits Shape class and contains attributes of Triangle.
+     * @Author SunilOS
+     */
     public class Triangle : Shape
     {
         private int Base = 0;

@@ -6,9 +6,12 @@ using System.Threading.Tasks;
 
 namespace AppliedDotNet.p01basics
 {
+        /* Program to print runtime argument list
+         * @Author SunilOS
+         */
     public class HelloAllDefineMethods
     {
-        /* Program to print runtime argument list*/
+        
         public static void Test(String[] args)
         {
             PrintAll(args);

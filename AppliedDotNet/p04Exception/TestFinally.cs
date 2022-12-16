@@ -6,6 +6,9 @@ using System.Threading.Tasks;
 
 namespace AppliedDotNet.p04Exception
 {
+    /* Tests Finally block to cleanup resources.
+     * @Author SunilOS
+     */
     public class TestFinally
     {
         public static void Test()

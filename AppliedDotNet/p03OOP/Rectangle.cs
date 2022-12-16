@@ -6,6 +6,9 @@ using System.Threading.Tasks;
 
 namespace AppliedDotNet.p03OOP
 {
+    /* Inherits Shape class and contains attributes of Rectangle.
+     * @Author SunilOS
+     */
     public class Rectangle : Shape
     {
         private int length = 0;

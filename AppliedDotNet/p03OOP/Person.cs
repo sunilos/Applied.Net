@@ -6,6 +6,9 @@ using System.Threading.Tasks;
 
 namespace AppliedDotNet.p03OOP
 {
+    /* Person expert class containing related attributes and methods.
+     * @Author SunilOS
+     */
     public class Person
     {
         protected String firstName = null;

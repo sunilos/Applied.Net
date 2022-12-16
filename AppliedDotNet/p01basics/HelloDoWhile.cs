@@ -6,7 +6,9 @@ using System.Threading.Tasks;
 
 namespace AppliedDotNet.p01basics
 {
-    /* Example class for DO-While Loop*/
+    /* Example class for DO-While Loop
+     * @Author SunilOS
+     */
     public class HelloDoWhile
     {
         public static void Test()

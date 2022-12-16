@@ -6,7 +6,10 @@ using System.Threading.Tasks;
 
 namespace AppliedDotNet.p02VariableOparetors
 {
-    public class Hello
+    /* A simple program to print Hello with Name.  
+     * @Author SunilOS   
+     */
+    public class HelloName1
     {
         public static void Test()
         {

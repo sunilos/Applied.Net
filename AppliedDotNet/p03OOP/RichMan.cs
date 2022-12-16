@@ -6,6 +6,9 @@ using System.Threading.Tasks;
 
 namespace AppliedDotNet.p03OOP
 {
+    /* Interface Richman with method declaration.
+     * @Author SunilOS
+     */
     public interface RichMan
     {
         public void EarnMoney();

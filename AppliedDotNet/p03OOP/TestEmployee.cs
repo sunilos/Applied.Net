@@ -6,6 +6,9 @@ using System.Threading.Tasks;
 
 namespace AppliedDotNet.p03OOP
 {
+    /* Test the Employee class.
+     * @Author SunilOS
+     */
     public class TestEmployee
     {
         public static void Test()

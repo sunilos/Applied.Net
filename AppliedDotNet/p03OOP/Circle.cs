@@ -6,6 +6,9 @@ using System.Threading.Tasks;
 
 namespace AppliedDotNet.p03OOP
 {
+    /* Inherits Shape class and contains attributes of Circle.
+     * @Author SunilOS
+     */
     public class Circle : Shape
     {
         private int radius = 0;

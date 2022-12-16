@@ -7,6 +7,9 @@ using System.Threading.Tasks;
 
 namespace AppliedDotNet.p05CollectionFramwork
 {
+    /* Test the ArrayList class.
+     * @Author SunilOS
+     */
     public class TestArrayList
     {
         public static void Test()

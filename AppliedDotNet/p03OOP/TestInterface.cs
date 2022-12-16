@@ -6,6 +6,9 @@ using System.Threading.Tasks;
 
 namespace AppliedDotNet.p03OOP
 {
+    /* Test the Interface.
+     * @Author SunilOS
+     */
     public class TestInterface
     {
         public static void Test()

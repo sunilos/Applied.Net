@@ -6,6 +6,9 @@ using System.Threading.Tasks;
 
 namespace AppliedDotNet.p03OOP
 {
+    /* Class BusinessMan extends Class Richman and SocialWorker
+     * @Author SunilOS
+     */
     public class BusinessMan : RichMan, SocialWorker
     {
 

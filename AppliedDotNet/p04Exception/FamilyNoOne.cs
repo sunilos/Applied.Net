@@ -6,6 +6,9 @@ using System.Threading.Tasks;
 
 namespace AppliedDotNet.p04Exception
 {
+    /* Tests propagation of unchecked exception .
+     * @Author SunilOS
+     */
     public class FamilyNoOne
     {
         public static void Test()

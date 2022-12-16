@@ -6,7 +6,11 @@ using System.Threading.Tasks;
 
 namespace AppliedDotNet.p03OOP
 {
-    public class Polymorphism
+    /* This class test polymorphic behavior of Shape class. Polymorphic behavior is
+     * achieved by area() method.
+     * @Author SunilOS
+     */
+    public class TestShapePoly
     {
         public static void Test()
         {

@@ -7,6 +7,9 @@ using System.Threading.Tasks;
 
 namespace AppliedDotNet.p05CollectionFramwork
 {
+    /* Test the CopyArray class.
+     * @Author SunilOS
+     */
     public class CopyArray
     {
         public static void Test()

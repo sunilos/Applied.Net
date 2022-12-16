@@ -6,13 +6,9 @@ using System.Threading.Tasks;
 
 namespace AppliedDotNet.p01basics
 {
-
-    /*
-     * This example is for taking run time arguments then parse them into integer type for addition.    
-     *
+    /* This example is for taking run time arguments, then parse them into integer type for addition.
      * @Author SunilOS
-    */
-
+     */
     public class AddArguments
     {
         public static void Test(String[] args)

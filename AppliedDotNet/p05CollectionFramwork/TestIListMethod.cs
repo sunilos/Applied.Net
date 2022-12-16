@@ -7,6 +7,9 @@ using System.Threading.Tasks;
 
 namespace AppliedDotNet.p05CollectionFramwork
 {
+    /* Test the List interface and its concrete class.
+     * @Author SunilOS
+     */
     public class TestIListMethod
     {
         public static void Test()
