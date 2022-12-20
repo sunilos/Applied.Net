@@ -3,6 +3,7 @@ using AppliedDotNet.p02VariableOparetors;
 using AppliedDotNet.p03OOP;
 using AppliedDotNet.p04Exception;
 using AppliedDotNet.p05CollectionFramwork;
+using AppliedDotNet.p06IOStream;
 
 namespace DotNetPrograms
 {
@@ -86,6 +87,25 @@ namespace DotNetPrograms
             //IDictionaryMethod.Test();
             //TestDictionary.Test();
             //Generic.Test();
+
+
+
+            //* IOStream *//
+
+            //Attri.Test();
+            //Dir.Test();
+            //ReadFile.Test();
+            //WriteFile.Test();
+            //CopyFile.Test();
+            //TestCopyFile.Test();
+            //WritePrimitiveData.Test();
+            //ReadPrimitiveData.Test();
+            //SerializeObjectWrite.Test();
+            //SerializeObjectRead.Test();
+            //ReadAllLine.Test();
+
+
+            
         }
     }
 }

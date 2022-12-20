@@ -6,7 +6,8 @@ using System.Threading.Tasks;
 
 namespace AppliedDotNet.p01basics
 {
-        /* Program to print runtime argument list
+        /**
+         * Program to print runtime argument list
          * @Author SunilOS
          */
     public class HelloAllDefineMethods

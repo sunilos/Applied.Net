@@ -7,7 +7,8 @@ using System.Threading.Tasks;
 
 namespace AppliedDotNet.p01basics
 {
-    /* Program for Table
+    /**
+     * Program for Table
      * @Author SunilOS   
      */
     public class Tables

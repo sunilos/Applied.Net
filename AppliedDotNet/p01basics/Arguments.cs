@@ -6,7 +6,8 @@ using System.Threading.Tasks;
 
 namespace AppliedDotNet.p01basics
 {
-    /* All Method in this class
+    /**
+     * All Method in this class
      * @Author SunilOS
      */
     public class Arguments

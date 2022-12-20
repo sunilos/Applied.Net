@@ -6,7 +6,8 @@ using System.Threading.Tasks;
 
 namespace AppliedDotNet.p01basics
 {
-    /* Example class for While Loop
+    /**
+     * Example class for While Loop
      * @Author SunilOS
      */
     public class HelloWhile

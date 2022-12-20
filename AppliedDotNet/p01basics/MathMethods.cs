@@ -6,7 +6,8 @@ using System.Threading.Tasks;
 
 namespace AppliedDotNet.p01basics
 {
-    /* Program to check the Maths methods
+    /**
+     * Program to check the Maths methods
      * @Author SunilOS   
      */
     public class MathMethods

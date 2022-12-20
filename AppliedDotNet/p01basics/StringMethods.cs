@@ -6,7 +6,8 @@ using System.Threading.Tasks;
 
 namespace AppliedDotNet.p01basics
 {
-    /* Program to check the string methods
+    /**
+     * Program to check the string methods
      * @Author SunilOS   
      */
     public class StringMethods
@@ -14,7 +15,9 @@ namespace AppliedDotNet.p01basics
         public static void Test()
         {
             String name = "Vijay Dinanth Chouhan";
+            String surname = "Vijay Dinanth Chouhan";
 
+            Console.WriteLine((string.Equals(name, surname))) ;
             Console.WriteLine(" String Length- " + name.Length);
             Console.WriteLine(" 7 ths caharcter is- " + name[6]);
             Console.WriteLine(" Dina index is- " + name.IndexOf("Dina"));

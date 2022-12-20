@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace AppliedDotNet.p01basics
 {
-    /*
+    /**
      * This example is for adding two integer    
      * @Author SunilOS
      */
