@@ -14,7 +14,7 @@ namespace AppliedDotNet.p06IOStream
     {
         public static void Test()
         {
-            String fileName = "C:\\Users\\ASUS\\OneDrive\\Documents\\Test.txt";
+            String fileName = "C:/Test.txt";
             FileInfo f = new FileInfo(fileName);
             if (f.Exists)
             {
