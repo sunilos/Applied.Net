@@ -14,7 +14,7 @@ namespace AppliedDotNet.p06IOStream
     {
         public static void Test()
         {
-            String source = "C:\\Users\\ASUS\\OneDrive\\Documents\\Test.txt"; String target = "C:\\Users\\ASUS\\OneDrive\\Documents\\Test1.txt";
+            String source = "C:/Test.txt"; String target = "C:/Test1.txt";
 
             FileStream f = new FileStream(source, FileMode.Open, FileAccess.Read);
 
