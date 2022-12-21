@@ -14,7 +14,7 @@ namespace AppliedDotNet.p06IOStream
     {
         public static void Test()
         {
-            DirectoryInfo d = new DirectoryInfo("C:\\Users\\ASUS\\OneDrive\\Documents");
+            DirectoryInfo d = new DirectoryInfo("C:/Documents");
             if (d.Exists)
             {
                 DirectoryInfo[] dirs = d.GetDirectories();
