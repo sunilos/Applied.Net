@@ -17,7 +17,7 @@ namespace AppliedDotNet.p06IOStream
         {
             Employee emp = new Employee(1, "Sun", "Rays");
 
-            FileStream stream = new FileStream("C:\\Users\\ASUS\\OneDrive\\Documents\\emp.obj", FileMode.Create);
+            FileStream stream = new FileStream("C:/emp.obj", FileMode.Create);
 
             BinaryFormatter bf = new BinaryFormatter();
 
