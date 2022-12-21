@@ -16,7 +16,7 @@ namespace AppliedDotNet.p06IOStream
     {
         public static void Test()
         {
-            FileStream stream = new FileStream("C:\\Users\\ASUS\\OneDrive\\Documents\\emp.obj", FileMode.Open);
+            FileStream stream = new FileStream("C:/emp.obj", FileMode.Open);
             
             BinaryFormatter bf = new BinaryFormatter();
             
