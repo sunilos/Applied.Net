@@ -4,6 +4,7 @@ using AppliedDotNet.p03OOP;
 using AppliedDotNet.p04Exception;
 using AppliedDotNet.p05CollectionFramwork;
 using AppliedDotNet.p06IOStream;
+using AppliedDotNet.p07ConcurrencyAndThreads;
 
 namespace DotNetPrograms
 {
@@ -32,6 +33,7 @@ namespace DotNetPrograms
             //DivisionArguments.Test(args);
             //ReturnValuesArguments.Test(args);
             //NormalDate.Test();
+            //TestVariable.Test();
             /* Arguments c1 = new Arguments();
              c1.Add(5, 6);
              c1.Sum(10, 5);
@@ -105,7 +107,15 @@ namespace DotNetPrograms
             //ReadAllLine.Test();
 
 
-            
+            //*  Concurrency And Threads  *//
+
+            //TestWithoutThread.Test();
+            //TestWithThread.Test();
+            //TestRacingCondThread.Test();
+            //TestSynchronization.Test();
+            //TestSychronizationMoniter.Test();
+
+
         }
     }
 }

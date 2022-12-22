@@ -19,9 +19,9 @@ namespace AppliedDotNet.p06IOStream
             {
                 lines[i] = String.Format("This is line number {0}", i);
             }
-            File.WriteAllLines(@"C:/Test.txt", lines);
+            File.WriteAllLines(@"C:\Users\ASUS\OneDrive\Documents\Test.txt", lines);
 
-            foreach (string line in File.ReadAllLines(@"C:/Test.txt"))
+            foreach (string line in File.ReadAllLines(@"C:\Users\ASUS\OneDrive\Documents\Test.txt"))
             {
                 Console.WriteLine(line);
             }

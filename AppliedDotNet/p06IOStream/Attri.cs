@@ -7,14 +7,14 @@ using System.Threading.Tasks;
 namespace AppliedDotNet.p06IOStream
 {
     /**
-     * Write a Text File charter by charter and by char array 
+     * Write a Text File charter by charter and by char array. 
      * @Author SunilOS
      */
     public class Attri
     {
         public static void Test()
         {
-            String fileName = "C:/Test.txt";
+            String fileName = "C:\\Users\\ASUS\\OneDrive\\Documents\\Test.txt";
             FileInfo f = new FileInfo(fileName);
             if (f.Exists)
             {

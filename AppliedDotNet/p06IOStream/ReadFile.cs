@@ -14,7 +14,7 @@ namespace AppliedDotNet.p06IOStream
     {
         public static void Test()
         {
-            FileStream f = new FileStream("C:/Test.txt", FileMode.Open);
+            FileStream f = new FileStream("C:\\Users\\ASUS\\OneDrive\\Documents\\Test.txt", FileMode.Open);
             StreamReader input = new StreamReader(f);
             String line = input.ReadLine();
             while (line != null)

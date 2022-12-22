@@ -14,7 +14,7 @@ namespace AppliedDotNet.p06IOStream
     {
         public static void Test()
         {
-            FileInfo MyFile = new FileInfo(@"C:/Documents");
+            FileInfo MyFile = new FileInfo(@"C:\Users\ASUS\OneDrive\Documents");
             //MyFile.Create();
             MyFile.CopyTo(@"C:\Users\ASUS\OneDrive\Documents");
             //or

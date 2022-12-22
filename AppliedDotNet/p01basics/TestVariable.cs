@@ -1,0 +1,28 @@
+﻿using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace AppliedDotNet.p01basics
+{
+    public class TestVariable
+    {
+        public static void Test()
+        {
+            sbyte s = 127;
+            short s1 = 32767;
+            int s2 = 2147483647;
+            long l = 8475965285669556457;
+            float f = 98979879797879879782978654342135245346.49746749876857885687879685486978658658f;
+            double d = 175235655588552568578989789545368745458563248565486578457896547859658479564785463725432635923345234835436484564775242875754283232454567686876543432443594286432548763912345812453862379852587956454565448693563756237593865374250473057672364567935745284325394966352342354946254624524632121213436787689796545345954.7;
+            char c = 's';
+            bool b = true;
+            byte b1 = 255;
+            ushort us = 65535;
+            uint ui = 4294967295;
+            ulong ul = 16875436875468574374;
+            decimal d1 = 15645374533573465743;
+        }
+    }
+}

@@ -15,19 +15,34 @@ namespace AppliedDotNet.p01basics
         public static void Test()
         {
 
+            /*Console.WriteLine(DateTime.Now);*/
+
+
+            //*  Maintain the date of mobile recharge  *//
+
+            /*DateTime d1 = DateTime.Now;
+            DateTime d2 = DateTime.Now.AddDays(-10);
+            DateTime d3 = DateTime.Now.AddDays(10);
+
+            Console.WriteLine(d2);
+            Console.WriteLine(d3);*/
+
+
             //*  Change the Date to String Format  *//
 
-            DateTime dt = DateTime.Now;
+            /*DateTime dt = DateTime.Now;
 
             String sdt = dt.ToString("dd/MM/yyyy");
             
-            Console.WriteLine("ToString: " + sdt);
+            Console.WriteLine("ToString: " + sdt);*/
+
 
             //*  Change the String to Date Format  *//
 
             /*String dob = "17/10/2002";
             DateTime newDob = DateTime.Parse(dob);
             Console.WriteLine(newDob);*/
+
 
             //*  Today's Date Program with Time  *//
 
@@ -39,6 +54,7 @@ namespace AppliedDotNet.p01basics
             DateTime aDayBeforeAMonth = Day.Subtract(Month);
             Console.WriteLine("{0:dddd}", aDayAfterAMonth);
             Console.WriteLine("{0:dddd}", aDayBeforeAMonth);*/
+
 
             //*  Date Method  *//
 
