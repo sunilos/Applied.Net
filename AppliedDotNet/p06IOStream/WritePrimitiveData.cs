@@ -14,7 +14,7 @@ namespace AppliedDotNet.p06IOStream
     {
         public static void Test()
         {
-            FileStream fs = new FileStream("C:\\Users\\ASUS\\OneDrive\\Documents\\test.dat", FileMode.Create, FileAccess.ReadWrite);
+            FileStream fs = new FileStream("C:/test.dat", FileMode.Create, FileAccess.ReadWrite);
 
             BinaryWriter bw = new BinaryWriter(fs);
 
