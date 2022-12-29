@@ -14,7 +14,7 @@ namespace AppliedDotNet.p06IOStream
     {
         public static void Test()
         {
-            FileStream fs = new FileStream("C:\\Users\\ASUS\\OneDrive\\Documents\\Test.txt", FileMode.Create);
+            FileStream fs = new FileStream("C:/Test.txt", FileMode.Create);
             StreamWriter output = new StreamWriter(fs);
             String line = Console.ReadLine(); //Read from keyboard
             while (!line.Equals("quit"))
